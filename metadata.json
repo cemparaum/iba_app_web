@@ -1,0 +1,7 @@
+{
+  "name": "iba_app_web",
+  "description": "A robust and user-centric Church Management System focused on member care, intelligent scheduling, and automated workflows.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
